@@ -3,7 +3,7 @@ layout: post
 title:  "Ateşli Çocukta Yaklaşım"
 date:   2015-05-20 11:49:00
 ---
-**Ateş nedir hangi durumlarda ateş  meydana gelir?**
+__Ateş nedir hangi durumlarda ateş  meydana gelir?__
 
 Ateş vücudun enflamatuar savunma sistemine karşı yapılan bir etkiye cevap olarak fizyolojik cevaptan kaynaklanan vücut sıcaklığında yükselmedir. Ateş konusunda çocuk hekimleri arasında farklı görüşler bildirilse de  vücut ısısının makattan 38°C, kulaktan 37,8°C, koltuk altından 37°C   üzerinde ölçülmesi ateş olarak kabul edilebilir. 
 
