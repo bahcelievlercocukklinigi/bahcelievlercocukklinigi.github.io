@@ -23,8 +23,6 @@ author: "Sevgi Yüce"
 
 # Google Analytics (you may want to changes these with yours or even delete :)
 
-#ga_domain: ertugerata.com
-
 # Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
 
 markdown: kramdown
