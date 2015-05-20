@@ -3,10 +3,10 @@ layout: post
 title:  "Ateşli Çocukta Yaklaşım"
 date:   2015-05-20 11:49:00
 ---
-**Dr. Erhan Yüce**  
-**Çocuk Sağlığı ve Hastalıkları Uzmanı**       
-
 ![bebek](http://i.on5yirmi5.com/image/2012/04/24/270583.jpg)
+
+**Dr. Erhan Yüce**  
+**Çocuk Sağlığı ve Hastalıkları Uzmanı** 
 
 __Ateş nedir hangi durumlarda ateş  meydana gelir?__
 
