@@ -50,22 +50,26 @@ Ateş vücudun enflamatuar savunma sistemine karşı yapılan bir etkiye cevap o
 
 Çocuklarda ateş genellikle kısa süre içinde kendiliğinden iyileşen basit viral hastalıklardan kaynaklanır.Ateşli çocukların çok az kısmında (%15) yaşamı tehdit eden bakteriyel enfeksiyonlar söz konusudur. 
 Çocuklarda ateşe yol açan nedenleri şöyle gruplayabiliriz;
-**Enfeksiyonlar** (grip, üst solunum yolu enfeksiyonları, kızamık, kızamıkçık, suçiçeği, 5. ve 6. hastalık, kabakulak, tonsillofarenjit, sinüzit, orta kulak enfeksiyonu, laringotrekeabronşit, zatürre, idrar yolu  enfeksiyonu,  gastroenterit, menenjit, ensefalit, myokardit, endokardit, perikardit,  artrit, osteomyelit, bakteriyemi, sepsis vb.)
-**Aşılar** (özellikle karma aşılardan sonra )
-**Doku hasarı** (travma, adale içi enjeksiyonlar, diş çıkarma, yanık), 
-**Su kaybı** (ishal, kusma, yanık vb)
-**Habis olaylar** (lösemi, lenfoma, metastatik hastalıklar),
-**İlaçlar** (antibiyotikler, atropin, amfetamin, amfoterisin B, kokain vb.), 
-**Kan transfüzyonları** 
-**Kafa travmaları**
-**Biyolojik ajanlar** ( interferon, interlökokinler), 
-**İmmünolojik hastalıklar** (Romatoid artrit, sistemik lupus eritematozus, kawazaki hastalığı vb), 
-**İnflamatuar hastalıklar** (inflamatuar barsak hastalığı),
-**Granülomatoz hastalıklar** (Sarkoidoz), 
-**Endokrin hastalıklar** (Tireotoksikoz, feokromositoma,)
-**Metabolik hastalıklar** (Gut, üremi) 
-**Zehirlenmeler**
-**Nedeni bilinmeyen veya iyice anlaşılamayan hastalıklar** (FMF) 
+ - **Enfeksiyonlar** (grip, üst solunum yolu enfeksiyonları, kızamık, kızamıkçık, suçiçeği, 5. ve 6. hastalık, kabakulak, tonsillofarenjit,
+   sinüzit, orta kulak enfeksiyonu, laringotrekeabronşit, zatürre, idrar
+   yolu  enfeksiyonu,  gastroenterit, menenjit, ensefalit, myokardit,
+   endokardit, perikardit,  artrit, osteomyelit, bakteriyemi, sepsis
+   vb.)
+ - **Aşılar** (özellikle karma aşılardan sonra )
+ - **Doku hasarı** (travma, adale içi enjeksiyonlar, diş çıkarma, yanık),
+ - **Su kaybı** (ishal, kusma, yanık vb)
+ - **Habis olaylar** (lösemi, lenfoma, metastatik hastalıklar),
+ - **İlaçlar** (antibiyotikler, atropin, amfetamin, amfoterisin B, kokain vb.),
+ - **Kan transfüzyonları**
+ - **Kafa travmaları**
+ - **Biyolojik ajanlar** ( interferon, interlökokinler),
+ - **İmmünolojik hastalıklar** (Romatoid artrit, sistemik lupus eritematozus, kawazaki hastalığı vb),
+ - **İnflamatuar hastalıklar** (inflamatuar barsak hastalığı),
+ - **Granülomatoz hastalıklar** (Sarkoidoz),
+ - **Endokrin hastalıklar** (Tireotoksikoz, feokromositoma,)
+ - **Metabolik hastalıklar** (Gut, üremi) 
+ - **Zehirlenmeler**
+ - **Nedeni bilinmeyen veya iyice anlaşılamayan hastalıklar** (FMF)
 
 Kaynağı ne olursa olsun ateş nedeni olarak sayılan etkenler sonuç olarak hipotalamustaki ısı termoregülasyon merkezine etki ederek bazı özel salgıların (Prostaglandin E2) yapımına ve böylece ısı artışına neden olurlar. Dışarıdan gelen ateş yapıcı maddelere (Eksojen pirojenler)  cevap olarak üretilen salgıların (sitokin) yapımından 60-90 dk. sonra beyindeki ısı merkezi salgı yaparak cevap verir (hipotalamik prostoglandin E2 yapımı). Ateş, vücudun defans mekanizmasının salgılar (sitokinler) yoluyla oluşturduğu inflamatuar cevaplardan bir tanesidir. 
 
