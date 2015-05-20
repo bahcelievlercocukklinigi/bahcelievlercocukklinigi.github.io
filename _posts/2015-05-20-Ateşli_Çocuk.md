@@ -3,14 +3,14 @@ layout: post
 title:  "Ateşli Çocukta Yaklaşım"
 date:   2015-05-20 11:49:00
 ---
-Ateş nedir hangi durumlarda ateş  meydana gelir?
+**Ateş nedir hangi durumlarda ateş  meydana gelir?**
 
-Ateş vücudun enflamatuar savunma sistemine karşı yapılan bir etkiye cevap olarak fizyolojik cevaptan kaynaklanan vücut sıcaklığında yükselmedir. Ateş konusunda çocuk hekimleri arasında farklı görüşler bildirilse de  vücut ısısının makattan 38°C , kulaktan 37,8°C, koltuk altından 37°C   üzerinde ölçülmesi ateş olarak kabul edilebilir. 
+Ateş vücudun enflamatuar savunma sistemine karşı yapılan bir etkiye cevap olarak fizyolojik cevaptan kaynaklanan vücut sıcaklığında yükselmedir. Ateş konusunda çocuk hekimleri arasında farklı görüşler bildirilse de  vücut ısısının makattan 38°C, kulaktan 37,8°C, koltuk altından 37°C   üzerinde ölçülmesi ateş olarak kabul edilebilir. 
 
 İnsanlarda vücut ısısı, beyinde hipotalamus bölgesinde ısı kontrol merkezinin denetimindedir.  Hipotalamus, termostat gibi görev yaparak vücut ısısını dengeler. Isı ayar eşiği, genellikle enfeksiyon hastalıkları seyrinde artan   pirojen diye adlandırılan (IL-1,TNFα, IL6) maddeler yardımıyla daha yükseğe ayarlandığında, yeni duruma uyum için vücut ısısı da artar ki bu duruma ateş denir. Pirojenler bir taraftan ateşin gelişmesini sağlarken diğer taraftan akut faz yanıtını ve vücut savunma sisteminin uyarılmasını sağlayarak enfeksiyonun sınırlandırılmasına katkıda bulunur. Yani  ateş konusunda bilinçli olmak koşuluyla ateşin zararlı olmadığını söyleyebiliriz.
 
 
-Çocuklarda ateş neden önemlidir?
+**Çocuklarda ateş neden önemlidir?**
 
 •	Ateş çocuklarda acil servise en sık başvuru nedenidir. 6 ay-5 yaş arası ateşli çocukların %3-5’de havale (Febril konvülzyon) görülebilir. Konvülzyon önemli bir endişe kaynağı olmasına rağmen basit febril konvülzyonlarda kalıcı nörolojik problemlerin görülmemesi sevindiricidir.
 
@@ -25,7 +25,7 @@ Ateş vücudun enflamatuar savunma sistemine karşı yapılan bir etkiye cevap o
 •	Her ateşli durum ailelerde ciddi endişeye yol açar . Bu  durumda neler yapılması  gerektiği konusunda  da bilgiler maalesef   yeterli değildir. Hafif   ateşi olan bir çocuğu hemen acil servise götürüp acil servisi meşgul eden gereksiz sağlık harcamalarına yol açan aileler yanında, evde ateşi normale döndürmek için  yapılan yanlış uygulamalar (alkol, buz, sirkeli suyla kompres vb) nedeniyle ateşin daha da artmasına yol açan durumlarla sıkça karşılaşmaktayız. Bu konuda aileleri bilinçlendirmek için çocuk hekimleri yanında basın yayın ve medya kuruluşlarına büyük görevler düşmektedir.
 
 
-Hangi durumlarda çocuklarda ateş yükselir ?
+**Hangi durumlarda çocuklarda ateş yükselir ?**
 
 Çocuklarda ateş genellikle kısa süre içinde kendiliğinden iyileşen basit viral hastalıklardan kaynaklanır.Ateşli çocukların çok az kısmında (%15) yaşamı tehdit eden bakteriyel enfeksiyonlar söz konusudur. 
 Çocuklarda ateşe yol açan nedenleri şöyle gruplayabiliriz;
@@ -49,7 +49,7 @@ Nedeni bilinmeyen veya iyice anlaşılamayan hastalıklar (FMF)
 Kaynağı ne olursa olsun ateş nedeni olarak sayılan etkenler sonuç olarak hipotalamustaki ısı termoregülasyon merkezine etki ederek bazı özel salgıların (Prostaglandin E2) yapımına ve böylece ısı artışına neden olurlar. Dışarıdan gelen ateş yapıcı maddelere (Eksojen pirojenler)  cevap olarak üretilen salgıların (sitokin) yapımından 60-90 dk. sonra beyindeki ısı merkezi salgı yaparak cevap verir (hipotalamik prostoglandin E2 yapımı). Ateş, vücudun defans mekanizmasının salgılar (sitokinler) yoluyla oluşturduğu inflamatuar cevaplardan bir tanesidir. 
 
 
-Çocuklar ateşlendiğinde anne-babalar ateşi düşürmek için ilk müdahalede neler yapabilir?
+**Çocuklar ateşlendiğinde anne-babalar ateşi düşürmek için ilk müdahalede neler yapabilir?**
 
 ‘Ateşin düşürülmesi’ kavramı ateşin zararlı olduğunu düşündürebilecek bir kavram olup, bunun yerine ‘ ateş tedavisi’ kavramının kullanılması daha doğru olur. Ateş tedavisinde temel amaç çocuğun rahatlatılması ve rahatsız edilmemesidir. Ateşin normale döndürülmesi  ateşe neden olan hastalığın tedavisi anlamına gelmez. Semptomatik tedavide amaç vücut ısısının normal düzeyine döndürülmesi olmamalıdır. Büyük çocukların kendini iyi hissettiği küçük çocukların ise rahatladığı bir vücut ısısı düzeyi tedavi için yeterlidir.
 Hafif ateşte (< 38,5°C) çocuğunuzun üzerindeki fazla giysileri çıkartarak az ve gevşek giysiler giydirip, bol sıvı vermeliyiz. Bulunduğu ortamın sıcaklığını 21-22 derece arasında tutmaya dikkat etmeliyiz. Ilık suyla ( 29-32 derece) duş veya ılık-ıslak bezlerle pansuman yapabilirsiniz. Ateş düşürücü  gerekli değildir.
@@ -75,7 +75,8 @@ Ateşli çocuklarda ve özellikle bebeklerde aşağıdaki bulgulardan bir veya b
 •	Daha önce havale geçirmişse
 •	Çocuğunuzda sıvı kaybı bulguları (ağız mukozasında kuruluk, göz yaşının olmaması, göz küresinde ve bıngıldakta çökkünlük) varsa
 •	 Zor  ve sık nefes alıyorsa, öksürük, hırıltı,göğüs ağrısı, kulak ağrısı, karın ağrısı, boğaz ağrısı, ense sertliği, devamlı kusma, sık ishal, idrar yaparken yanma, idrar renginde değişme gibi bulguların varlığı durumunda.
- Anne-babalara konuyla ilgili önerileriniz nelerdir?
+
+**Anne-babalara konuyla ilgili önerileriniz nelerdir?**
  
 Anne ve babalarda büyük endişeye yol açan  ateş aslında vücudumuzda savunma sistemlerinin uyarılmasını sağladığı için yararlı bir semptomdur. Ateşli bir çocukta ateşi  hemen normal düzeylere indirmek için uğraşmamalıyız. Ateş düşürücü ilaçlar kullanılırken doz ayarına, dozlar arası süreye dikkat edilmeli ve kombine ateş düşürücü ilaç kullanımından kaçınılmalıyız. Ateşin semptomatik tedavisinde soğuk veya buzlu su, sirke kullanılmamalı, özellikle alkol ve kolonyanın zehirlenmelere neden olabileceği unutulmamalı. Üşüyebilir korkusu ile çok giydirmek ve üzerini örtmek ateşin daha da yükselmesine yol açabilir. Ateşli her hastaya antibiyotik başlanması  şeklindeki yanlış uygulamalardan kaçınmalıyız.  Ateş nedeniyle doktor tarafından başlanan antibiyotik tedavisinden sonra ateş 72 saat devam edebilir, bu  yüzden gereksiz endişeler yaşanmamalı. Ateş konusunda bilgili olmak kaydıyla ateşten korkmayalım…
 
