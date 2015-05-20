@@ -14,47 +14,21 @@ Ateş vücudun enflamatuar savunma sistemine karşı yapılan bir etkiye cevap o
 
 İnsanlarda vücut ısısı, beyinde hipotalamus bölgesinde ısı kontrol merkezinin denetimindedir.  Hipotalamus, termostat gibi görev yaparak vücut ısısını dengeler. Isı ayar eşiği, genellikle enfeksiyon hastalıkları seyrinde artan   pirojen diye adlandırılan (IL-1,TNFα, IL6) maddeler yardımıyla daha yükseğe ayarlandığında, yeni duruma uyum için vücut ısısı da artar ki bu duruma ateş denir. Pirojenler bir taraftan ateşin gelişmesini sağlarken diğer taraftan akut faz yanıtını ve vücut savunma sisteminin uyarılmasını sağlayarak enfeksiyonun sınırlandırılmasına katkıda bulunur. Yani  ateş konusunda bilinçli olmak koşuluyla ateşin zararlı olmadığını söyleyebiliriz.
 
-
 **Çocuklarda ateş neden önemlidir?**
 
- - Ateş çocuklarda acil servise en sık başvuru nedenidir. 6 ay-5 yaş
-   arası ateşli çocukların %3-5’de havale (Febril konvülzyon)
-   görülebilir. Konvülzyon önemli bir endişe kaynağı olmasına rağmen
-   basit febril konvülzyonlarda kalıcı nörolojik problemlerin
-   görülmemesi sevindiricidir.
- - Ateş, bağışıklık sistemi yetersiz veya baskılanmış çocuklarda ciddi
-   bakteriyel enfeksiyonların varlığını göstermesi açısından önemli bir
-   belirti olmaktadır.
- - Ateş çocuklarda okul aksaması, anne ve babalarda iş gücü kaybına
-   yol açabilir.
- - Kronik akciğer, karaciğer, böbrek ve doğumsal  kalp rahatsızlığı
-   olan çocuklarda ateşli dönemde artan metabolik gereksinimler
-   nedeniyle oluşan ek yükü karşılayamama sonucu kalp, solunum, böbrek
-   yetersizliği gelişebilir.
- - Ateşin düşürülmesi için aileler tarafından sık aralıklarla
-   kullanılan ateş düşürücü ilaçlara bağlı ciddi yan etkiler
-   görülebilir. Aileler tarafından doktor önerisi olmadan her ateşlenen
-   çocuğa antibiyotik verilmesi antibiyotik direnci ve gereksiz ilaç
-   kullanımı sonucu ekonomik kayıplara yol açar.
- - Her ateşli durum ailelerde ciddi endişeye yol açar . Bu  durumda
-   neler yapılması  gerektiği konusunda  da bilgiler maalesef   yeterli
-   değildir. Hafif   ateşi olan bir çocuğu hemen acil servise götürüp
-   acil servisi meşgul eden gereksiz sağlık harcamalarına yol açan
-   aileler yanında, evde ateşi normale döndürmek için  yapılan yanlış
-   uygulamalar (alkol, buz, sirkeli suyla kompres vb) nedeniyle ateşin
-   daha da artmasına yol açan durumlarla sıkça karşılaşmaktayız. Bu
-   konuda aileleri bilinçlendirmek için çocuk hekimleri yanında basın
-   yayın ve medya kuruluşlarına büyük görevler düşmektedir.
+ - Ateş çocuklarda acil servise en sık başvuru nedenidir. 6 ay-5 yaş arası ateşli çocukların %3-5’de havale (Febril konvülzyon) görülebilir. Konvülzyon önemli bir endişe kaynağı olmasına rağmen basit febril konvülzyonlarda kalıcı nörolojik problemlerin görülmemesi sevindiricidir.
+ - Ateş, bağışıklık sistemi yetersiz veya baskılanmış çocuklarda ciddi bakteriyel enfeksiyonların varlığını göstermesi açısından önemli bir belirti olmaktadır.
+ - Ateş çocuklarda okul aksaması, anne ve babalarda iş gücü kaybına yol açabilir.
+ - Kronik akciğer, karaciğer, böbrek ve doğumsal  kalp rahatsızlığı olan çocuklarda ateşli dönemde artan metabolik gereksinimler  nedeniyle oluşan ek yükü karşılayamama sonucu kalp, solunum, böbrek yetersizliği gelişebilir.
+ - Ateşin düşürülmesi için aileler tarafından sık aralıklarla  kullanılan ateş düşürücü ilaçlara bağlı ciddi yan etkiler
+   görülebilir. Aileler tarafından doktor önerisi olmadan her ateşlenen  çocuğa antibiyotik verilmesi antibiyotik direnci ve gereksiz ilaç kullanımı sonucu ekonomik kayıplara yol açar. 
+ - Her ateşli durum ailelerde ciddi endişeye yol açar . Bu  durumda neler yapılması  gerektiği konusunda  da bilgiler maalesef   yeterli değildir. Hafif   ateşi olan bir çocuğu hemen acil servise götürüp acil servisi meşgul eden gereksiz sağlık harcamalarına yol açan aileler yanında, evde ateşi normale döndürmek için  yapılan yanlış uygulamalar (alkol, buz, sirkeli suyla kompres vb) nedeniyle ateşin daha da artmasına yol açan durumlarla sıkça karşılaşmaktayız. Bu konuda aileleri bilinçlendirmek için çocuk hekimleri yanında basın yayın ve medya kuruluşlarına büyük görevler düşmektedir.
 
 **Hangi durumlarda çocuklarda ateş yükselir ?**
 
 Çocuklarda ateş genellikle kısa süre içinde kendiliğinden iyileşen basit viral hastalıklardan kaynaklanır.Ateşli çocukların çok az kısmında (%15) yaşamı tehdit eden bakteriyel enfeksiyonlar söz konusudur. 
 Çocuklarda ateşe yol açan nedenleri şöyle gruplayabiliriz;
- - **Enfeksiyonlar** (grip, üst solunum yolu enfeksiyonları, kızamık, kızamıkçık, suçiçeği, 5. ve 6. hastalık, kabakulak, tonsillofarenjit,
-   sinüzit, orta kulak enfeksiyonu, laringotrekeabronşit, zatürre, idrar
-   yolu  enfeksiyonu,  gastroenterit, menenjit, ensefalit, myokardit,
-   endokardit, perikardit,  artrit, osteomyelit, bakteriyemi, sepsis
-   vb.)
+ - **Enfeksiyonlar** (grip, üst solunum yolu enfeksiyonları, kızamık, kızamıkçık, suçiçeği, 5. ve 6. hastalık, kabakulak, tonsillofarenjit, sinüzit, orta kulak enfeksiyonu, laringotrekeabronşit, zatürre, idrar yolu  enfeksiyonu,  gastroenterit, menenjit, ensefalit, myokardit, endokardit, perikardit,  artrit, osteomyelit, bakteriyemi, sepsis vb.)
  - **Aşılar** (özellikle karma aşılardan sonra )
  - **Doku hasarı** (travma, adale içi enjeksiyonlar, diş çıkarma, yanık),
  - **Su kaybı** (ishal, kusma, yanık vb)
